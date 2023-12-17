@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+}
+
+.cart {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.item {
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: blue;
+}
+
+.total {
+  margin-top: 20px;
+}
+
+#total_price {
+  font-size: 40px;
+  font-weight: 600;
+  color: blue;
+  text-shadow: 1px 1px 2px black;
+  -webkit-text-stroke: 1px rgba(45, 48, 56, 0.8);
+}
